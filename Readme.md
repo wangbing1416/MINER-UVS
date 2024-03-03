@@ -34,6 +34,7 @@ to
 import process_gossipcop as process_data
 ```
 in line 10, `run.py`.
+
 2. You should manually split the training set of GossipCop into the divisions of training and validation, then, revise the file road in the function `write_data` in line 89, `process_gossipcop.py`
 
 ### Citation
