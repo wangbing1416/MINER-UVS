@@ -1,6 +1,8 @@
 # MINER-UVS
 This repo is the released code of our work **Escaping the Neutralization Effect of Modality Features Fusion in Multimodal Fake News Detection**
 
+[ Todo ] Our pre-trained model weights are comming soon.
+
 Our released code follows to "EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection" and "BDANN: BERT-Based Domain Adaptation Neural
 Network for Multi-Modal Fake News Detection"
 
